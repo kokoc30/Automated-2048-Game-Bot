@@ -52,9 +52,6 @@ python automated\_2048\_game.py
 * Change the move logic in automated\_2048\_game.py to try new strategies
 * Adjust any time delays (time.sleep) to speed up or slow down the bot
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
