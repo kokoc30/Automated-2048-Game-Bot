@@ -22,7 +22,7 @@ This is a simple Python script that uses Selenium to automatically play the 2048
 ## Setup
 
 1. **Clone the repository:**
-   git clone [https://github.com/yourusername/automated-2048-game-bot.git](https://github.com/yourusername/automated-2048-game-bot.git)
+   git clone [https://github.com/kokoc30/automated-2048-game-bot.git](https://github.com/kokoc30/automated-2048-game-bot.git)
    cd automated-2048-game-bot
 2. **Optional: Create a virtual environment:**
    python -m venv .venv
